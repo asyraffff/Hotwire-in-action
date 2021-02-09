@@ -53,6 +53,7 @@ Hey friend! Help me out for a couple of ☕️
 ### k
 ### l
 ### m
+- [Modern Datatables](https://rails-stimulusreflex.guillaumebriday.me/)
 ### n
 ### o
 ### p
@@ -85,19 +86,34 @@ Hey friend! Help me out for a couple of ☕️
 - [better-stimulus](https://github.com/julianrubisch/better-stimulus) - An opinionated collection of StimulusJS best practices
 - [boxdrop](https://github.com/marcoroth/boxdrop) - Dropbox Clone built with StimulusReflex
 ### c
+- [chat-hotwire-go](https://github.com/lu4p/chat-hotwire-go) - This is a simple chat app which shows how to use Go with Hotwire.
 ### d
 - [denali](https://github.com/gesteves/denali) - A simple, fast photoblogging CMS built in Ruby on Rails which features responsive, high-resolution images, a customizable posting schedule, social media management and syndication, a GraphQL API, and more.
+- [django-turbo-response](https://github.com/hotwire-django/django-turbo-response) - Hotwired/Turbo Django response helpers
 - [docker-rails](https://github.com/ledermann/docker-rails) - Dockerize Rails 6 with ActionCable, Webpacker, Stimulus, Elasticsearch, Sidekiq
 - [docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
 - [drag_and_drop_active_storage](https://github.com/justalever/drag_and_drop_active_storage) - A demo drag and drop image upldate Ruby on Rails app using Stimulus.js, DropZone.js, and ActiveStorage
 ### e
+- [express-hotwire](https://github.com/deriegle/express-hotwire) - Express tooling for working with Hotwire (HTML over the wire)
 ### f
 ### g
+- [gotwire](https://github.com/gypsydave5/gotwire) - Go server using HotWire
 ### h
+- [hhnpwa](https://github.com/OnRailsBlog/hhnpwa) - HOTWire Hacker News Progressive Web App
 - [hnpwa-app](https://github.com/johnbeatty/hnpwa-app) - An implementation of the Hacker News PWA with Rails + Stimulus
+- [hotwire-aspnet-demo-chat](https://github.com/scottiemc7/hotwire-aspnet-demo-chat) - Hotwire Asp.Net Core Chat Demo
 - [hotwire-chat](https://github.com/mdominiak/hotwire-chat) - Hotwire Chat is a demo Ruby on Rails web application built with Hotwire.
+- [hotwire-demo-chat-in-springboot](https://github.com/mbucc/hotwire-demo-chat-in-springboot) - Convert the demo video in Hotwire launch from Ruby to SpringBoot
+- [hotwire-devise](https://github.com/gorails-screencasts/hotwire-devise) - How to make Devise work with Hotwire & Turbo.js
 - [hotwire-django](https://github.com/hotwire-django/hotwire-django) - Meta package to combine turbo-django and stimulus-django
+- [hotwire-django-demo-chat](https://github.com/davish/hotwire-django-demo-chat) - Chat app demo of the Turbo web framework, rendered with Django.
+- [hotwire-django-realworld](https://github.com/hotwire-django/hotwire-django-realworld) - RealWorld Django app built with Turbo!
+- [hotwire-flask-demo](https://github.com/bwghughes/hotwired-flask-demo) - Demo basic Flask using Hotwired and Bootstrap 5.
+- [hotwire-go-example](https://github.com/while1malloc0/hotwire-go-example) - The hotwire demo chat written in Golang
+- [hotwire-golang-website](https://github.com/wolfeidau/hotwire-golang-website) - This project provides some working examples using Go and Hotwire Turbo.
+- [hotwire-kotlin/java](https://github.com/delitescere/hotwire-samples) - A Kotlin/Java SpringBoot sample of hotwire tooling
 - [hotwire-rails-dome-chat](https://github.com/hotwired/hotwire-rails-demo-chat) - Repository from the Hotwire demo
+- [hotwire-turbo-express](https://github.com/twelve17/hotwire-turbo-express) -  ExpressJS middleware for sending turbo-stream HTML fragments to a hotwire Turbo client
 ### i
 ### j
 - [javascript30-stimulus](https://github.com/adrienpoly/javascript30-stimulus) - Wes Bos 🔥 Javascript30 converted to Stimulus JS 🚀🚀🚀
@@ -110,9 +126,12 @@ Hey friend! Help me out for a couple of ☕️
 ### n
 ### o
 ### p
+- [phoenix-hotwire-demo-chat](https://github.com/en30/hotwire-phoenix-demo-chat) - This is a Phoenix port of hotwired/hotwire-rails-demo-chat.
 ### q
 ### r
+- [rails-hotwire-base](https://github.com/rootstrap/rails_hotwire_base) - Rails + Hotwire base app
 - [rails-template](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt + @
+- [rslack](https://github.com/S-H-GAMELINKS/rslack) - Slack like chat app( using hotwire!)
 ### s
 - [sjabloon-lite](https://github.com/GetSjabloon/sjabloon-lite) - The lite version of the SaaS Rails 6 starter kit Sjabloon, includes setup for Webpacker, Tailwind (inc. PurgeCss) and Stimulus
 - [stimulus-reflex-expo](https://github.com/hopsoft/stimulus_reflex_expo) - StimulusReflex demos
@@ -120,8 +139,14 @@ Hey friend! Help me out for a couple of ☕️
 - [stimulus-turbolinks](https://github.com/gretchenfitze/stimulus-turbolinks) - Stimulus + Vue.js + Turbolinks test Rails app
 - [stimulus-turbolinks-demo](https://github.com/pascallaliberte/stimulus-turbolinks-demo) - A Stimulus + Turbolinks Demo of an app called Proposahoy!
 ### t
+- [taskwire](https://github.com/vojto/taskwire) - Task manager with Rails/Hotwire
+- [test-hotwire-actiontext-rails](https://github.com/donrestarone/test-hotwire-actiontext-rails) - a simple twitter timeline implemented with hotwire and actiontext
 - [todomvc_rails_on_stimulus](https://github.com/adrienpoly/todomvc_rails_on_stimulus) - A modest TodoMvc built with Rails, Turbolinks and Stimulus JS
 - [trello-stimulus-reflex](https://github.com/excid3/trello-stimulus-reflex) - A trello clone using Stimulus Reflex
+- [turbo-django](https://github.com/hotwire-django/turbo-django) - An early stage integration of Hotwire Turbo with Django
+- [turbo-flask](https://github.com/miguelgrinberg/turbo-flask) - Integration of Hotwire's Turbo library with Flask.
+- [turbo-go](https://github.com/akmittal/turbo-go) - Build hotwire apps using go
+- [turbo-laravel](https://github.com/tonysm/turbo-laravel) - This package gives you a set of conventions to make the most out of Hotwire in Laravel (inspired by the turbo-rails gem).
 ### u
 ### v
 ### w
