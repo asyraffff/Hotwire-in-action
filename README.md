@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
 
-List of awesome [HOTWIRE](https://hotwire.dev/) applications either in *Action* or *Open Source*. The main goal of this repository is to find Website that used Hotwire in action, free open source Hotwire apps and *learn + start contributing* 🚀 . Feel free to [Contribute](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps/blob/main/CONTRIBUTING.md) to the list, any suggestions are welcome!
+List of awesome [HOTWIRE](https://hotwire.dev/) applications either in *Action* or *Open Source*. The main goal of this repository is to find Website that used Hotwire in action, free open source Hotwire apps and *learn + start contributing* 🚀 . Feel free to [Contribute](https://github.com/asyraffff/Hotwire-in-action/blob/main/CONTRIBUTING.md) to the list, any suggestions are welcome!
 
 ## Hotwire Stack
 - [Turbo](https://turbo.hotwire.dev/)

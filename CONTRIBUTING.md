@@ -36,4 +36,4 @@ Thank you for your suggestions! 🥳
 
 ## Don't know what to contribute ??
 
-See the [TODO](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps/blob/main/TODO.md) file 😉
+See the [TODO](https://github.com/asyraffff/Hotwire-in-action/blob/main/TODO.md) file 😉
