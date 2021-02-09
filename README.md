@@ -7,6 +7,8 @@
 
 List of awesome [HOTWIRE](https://hotwire.dev/) applications either in *Action* or *Open Source*. The main goal of this repository is to find Website that used Hotwire in action, free open source Hotwire apps and *learn + start contributing* 🚀 . Feel free to [Contribute](https://github.com/asyraffff/Hotwire-in-action/blob/main/CONTRIBUTING.md) to the list, any suggestions are welcome!
 
+> **note:** Hotwire is still new, so there must be some categories that have zero stuff in it. If you know anything, either website or open source project that use Hotwire, please contribute to this awesome list 🙏
+
 ## Hotwire Stack
 - [Turbo](https://turbo.hotwire.dev/)
 - [Stimulus](https://stimulus.hotwire.dev/)
