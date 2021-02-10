@@ -7,16 +7,24 @@
 
 List of awesome [HOTWIRE](https://hotwire.dev/) applications either in *Action* or *Open Source*. The main goal of this repository is to find Website that used Hotwire in action, free open source Hotwire apps and *learn + start contributing* 🚀 . Feel free to [Contribute](https://github.com/asyraffff/Hotwire-in-action/blob/main/CONTRIBUTING.md) to the list, any suggestions are welcome!
 
-> **note:** Hotwire is still new, so there must be some categories that have zero stuff in it. If you know anything, either website or open source project that use Hotwire, please contribute to this awesome list 🙏
+> **note:** Hotwire is still new, so there must be some categories that have zero stuff in it. If you know anything, either website or open source project that use Hotwire stack, please contribute to this awesome list 🙏
+
+I would say , this is also a [ReactiveRails](https://github.com/obie/guide-to-reactive-rails) list.
+> Reactive Rails empowers small teams of full-stack Rails developers to produce rich, real-time user experiences with server-rendered HTML and minimal JavaScript. It honors the motivating spirit of the Ruby on Rails framework, which is to allow small teams to do big things
 
 ## Hotwire Stack
 - [Turbo](https://turbo.hotwire.dev/)
 - [Stimulus](https://stimulus.hotwire.dev/)
 - Strada (soon)
+
+## Reactive Rails Stack
 - [StimulusReflex](https://docs.stimulusreflex.com/)
+- [CableReady](https://cableready.stimulusreflex.com/)
+- [ViewComponent](https://github.com/github/view_component)
+- [ViewComponentReflex](https://github.com/joshleblanc/view_component_reflex)
 ## Contain
-- Website that used Hotwire
-- Open Source Hotwire apps
+- Website that used Hotwire/ReactiveRails
+- Open Source Hotwire/ReactiveRails apps
 - Stimulus apps
 - [StimulusReflex](https://docs.stimulusreflex.com/) apps
 - other languages than Rails that used Hotwire(Django, Go. Laravel...)
