@@ -73,6 +73,7 @@ Hey friend! Help me out for a couple of ☕️
 ### r
 ### s
 - [shopify](https://accounts.shopify.com/)
+- [skillengine](https://skillsengine.com/)
 - [stackoverflow](https://stackoverflow.com/)
 - [stamped.ai](https://stamped.ai/)
 - [stimulusconnect](https://stimulusconnect.com/)
