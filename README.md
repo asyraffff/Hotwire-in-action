@@ -46,6 +46,7 @@ Hey friend! Help me out for a couple of ☕️
 - [basecamp](https://basecamp.com/)
 - [boxdrop.io](https://www.boxdrop.io/)
 ### c
+- [chaosmage.app](https://chaosmage.app/)
 - [coinbase](https://www.coinbase.com/)
 - [CoinGecko](https://www.coingecko.com/en)
 - [CrowdWorks.jp](https://crowdworks.jp/)
