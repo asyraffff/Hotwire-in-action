@@ -74,6 +74,7 @@ Hey friend! Help me out for a couple of ☕️
 - [stackoverflow](https://stackoverflow.com/)
 - [stamped.ai](https://stamped.ai/)
 - [stimulusconnect](https://stimulusconnect.com/)
+- [stimulusreflexpattern](https://www.stimulusreflexpatterns.com/)
 ### t
 - [teachmore](https://www.teachmore.in/)
 - [tetherit.io](https://tetherit.io/)
