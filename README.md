@@ -72,6 +72,7 @@ Hey friend! Help me out for a couple of ☕️
 - [orchid.software](https://orchid.software/)
 ### p
 - [processkit](https://processkit.com/)
+- [PyPI.org](https://pypi.org/)
 ### q
 - [podia](https://www.podia.com/)
 ### r
