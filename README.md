@@ -69,6 +69,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Modern Datatables](https://rails-stimulusreflex.guillaumebriday.me/)
 ### n
 ### o
+- [orchid.software](https://orchid.software/)
 ### p
 - [processkit](https://processkit.com/)
 ### q
