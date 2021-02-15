@@ -41,6 +41,7 @@ Hey friend! Help me out for a couple of ☕️
 
 # Website
 ### a
+- [allencompassingtrip.com](https://www.allencompassingtrip.com/)
 - [askubuntu](https://askubuntu.com/)
 ### b
 - [basecamp](https://basecamp.com/)
