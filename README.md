@@ -22,6 +22,7 @@ I would say , this is also a [ReactiveRails](https://github.com/obie/guide-to-re
 - [CableReady](https://cableready.stimulusreflex.com/)
 - [ViewComponent](https://github.com/github/view_component)
 - [ViewComponentReflex](https://github.com/joshleblanc/view_component_reflex)
+
 ## Contain
 - Website that used Hotwire/ReactiveRails
 - Open Source Hotwire/ReactiveRails apps
@@ -29,17 +30,21 @@ I would say , this is also a [ReactiveRails](https://github.com/obie/guide-to-re
 - [StimulusReflex](https://docs.stimulusreflex.com/) apps
 - other languages than Rails that used Hotwire(Django, Go. Laravel...)
 
-
 ## Support
 Hey friend! Help me out for a couple of ☕️
 
 <a href="https://www.buymeacoffee.com/asyraff" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 100px !important;" ></a>
 
-## Contents
+---
+
+# Contents
 - [Website](#website)
 - [Open-source](#open-source)
+- [Resources](#resources)
 
-# Website
+---
+
+## Website
 ### a
 - [allencompassingtrip.com](https://www.allencompassingtrip.com/)
 - [askubuntu](https://askubuntu.com/)
@@ -100,6 +105,9 @@ Hey friend! Help me out for a couple of ☕️
 ### x
 ### y
 ### z
+
+---
+
 # Open-source
 ### a
 - [abyme](https://github.com/bear-in-mind/abyme) - abyme is a modern take on handling dynamic nested forms in Rails 6+ using StimulusJS.
@@ -175,3 +183,29 @@ Hey friend! Help me out for a couple of ☕️
 ### x
 ### y
 ### z
+
+---
+
+# Resources
+
+### Stimulus
+- [stimulus.hotwire.dev](https://stimulus.hotwire.dev/)
+- [stimulus-use](https://stimulus-use.github.io/stimulus-use/#/)
+- [stimulus-components](https://stimulus-components.netlify.app/)
+- [betterstimulus](https://www.betterstimulus.com/)
+- [stimulustoolbox](https://stimulustoolbox.com/)
+- [awesome-stimulusjs](https://github.com/skatkov/awesome-stimulusjs)
+   - Tutorial
+      - [onrails.blog](https://onrails.blog/stimulus-js-tutorials/)
+### ReactiveRails
+- [guide to reactive rails](https://github.com/obie/guide-to-reactive-rails)
+- [cheatsheet](https://devhints.io/stimulus-reflex)
+   - StimulusReflex
+     - [docs.stimulusreflex.com](https://docs.stimulusreflex.com/)
+   - CableReady
+     - [cableready.stimulusreflex.com](https://cableready.stimulusreflex.com/)
+   - Testing
+     - [stimulus_reflex_testing](https://github.com/podia/stimulus_reflex_testing)
+### Community
+- [discuss.hotwire.dev](https://discuss.hotwire.dev/)
+- [stimulusconnect](https://stimulusconnect.com/)
