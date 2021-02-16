@@ -179,6 +179,7 @@ Hey friend! Help me out for a couple of ☕️
 - [turbo-laravel](https://github.com/tonysm/turbo-laravel) - This package gives you a set of conventions to make the most out of Hotwire in Laravel (inspired by the turbo-rails gem).
 ### u
 ### v
+- [vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr) - ⚡️ HMR for Stimulus controllers in Vite.js
 ### w
 ### x
 ### y
