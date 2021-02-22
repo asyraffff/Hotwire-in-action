@@ -77,10 +77,11 @@ Hey friend! Help me out for a couple of ☕️
 ### o
 - [orchid.software](https://orchid.software/)
 ### p
+- [podia](https://www.podia.com/)
 - [processkit](https://processkit.com/)
 - [PyPI.org](https://pypi.org/)
 ### q
-- [podia](https://www.podia.com/)
+- [quran.com](https://quran.com/)
 ### r
 - [railsbytes](https://railsbytes.com/)
 ### s
