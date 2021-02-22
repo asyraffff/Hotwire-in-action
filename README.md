@@ -50,6 +50,7 @@ Hey friend! Help me out for a couple of ☕️
 - [askubuntu](https://askubuntu.com/)
 ### b
 - [basecamp](https://basecamp.com/)
+- [bookshop.org](https://bookshop.org/)
 - [boxdrop.io](https://www.boxdrop.io/)
 ### c
 - [chaosmage.app](https://chaosmage.app/)
