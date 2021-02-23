@@ -166,6 +166,7 @@ Hey friend! Help me out for a couple of ☕️
 - [rslack](https://github.com/S-H-GAMELINKS/rslack) - Slack like chat app( using hotwire!)
 ### s
 - [sjabloon-lite](https://github.com/GetSjabloon/sjabloon-lite) - The lite version of the SaaS Rails 6 starter kit Sjabloon, includes setup for Webpacker, Tailwind (inc. PurgeCss) and Stimulus
+- [snippet_app](https://github.com/SnippetSafe/snippet_app) - A social code snippet sharing app that allows you to create, file and share code snippets with anyone. Built with Ruby on Rails and Stimulus JS.
 - [stimulus-reflex-expo](https://github.com/hopsoft/stimulus_reflex_expo) - StimulusReflex demos
 - [stimulus_reflex_todomvc](https://github.com/hopsoft/stimulus_reflex_todomvc) - An implementation of TodoMVC using Ruby on Rails, StimulusJS, and StimulusReflex
 - [stimulus-turbolinks](https://github.com/gretchenfitze/stimulus-turbolinks) - Stimulus + Vue.js + Turbolinks test Rails app
