@@ -72,6 +72,7 @@ Hey friend! Help me out for a couple of ☕️
 - [jumpstartrails](https://jumpstartrails.com/)
 ### k
 ### l
+- [leanstack](https://leanstack.com/)
 ### m
 - [Modern Datatables](https://rails-stimulusreflex.guillaumebriday.me/)
 ### n
