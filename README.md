@@ -200,6 +200,7 @@ Hey friend! Help me out for a couple of ☕️
 - [betterstimulus](https://www.betterstimulus.com/)
 - [stimulustoolbox](https://stimulustoolbox.com/)
 - [awesome-stimulusjs](https://github.com/skatkov/awesome-stimulusjs)
+- [stimulus-library](https://github.com/Sub-Xaero/stimulus-library)
    - Tutorial
       - [onrails.blog](https://onrails.blog/stimulus-js-tutorials/)
 ### ReactiveRails
