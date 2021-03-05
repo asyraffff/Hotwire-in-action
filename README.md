@@ -66,6 +66,7 @@ Hey friend! Help me out for a couple of ☕️
 - [gitlab](https://gitlab.com/)
 - [gorails](https://gorails.com/)
 ### h
+- [hackershare.dev](https://hackershare.dev)
 - [hey.com](https://hey.com/)
 ### i
 ### j
