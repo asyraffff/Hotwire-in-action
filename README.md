@@ -133,6 +133,7 @@ Hey friend! Help me out for a couple of ☕️
 ### g
 - [gotwire](https://github.com/gypsydave5/gotwire) - Go server using HotWire
 ### h
+- [hackershare](https://github.com/hackershare/hackershare) - a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
 - [hhnpwa](https://github.com/OnRailsBlog/hhnpwa) - HOTWire Hacker News Progressive Web App
 - [hnpwa-app](https://github.com/johnbeatty/hnpwa-app) - An implementation of the Hacker News PWA with Rails + Stimulus
 - [hotwire-aspnet-demo-chat](https://github.com/scottiemc7/hotwire-aspnet-demo-chat) - Hotwire Asp.Net Core Chat Demo
