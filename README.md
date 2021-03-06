@@ -63,6 +63,7 @@ Hey friend! Help me out for a couple of ☕️
 ### f
 - [festalab](https://festalab.com.br/)
 ### g
+- [ga-alliance](https://ga-alliance.com/)
 - [gitlab](https://gitlab.com/)
 - [gorails](https://gorails.com/)
 ### h
