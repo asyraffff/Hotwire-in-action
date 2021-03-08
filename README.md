@@ -184,6 +184,7 @@ Hey friend! Help me out for a couple of ☕️
 - [turbo-flask](https://github.com/miguelgrinberg/turbo-flask) - Integration of Hotwire's Turbo library with Flask.
 - [turbo-go](https://github.com/akmittal/turbo-go) - Build hotwire apps using go
 - [turbo-laravel](https://github.com/tonysm/turbo-laravel) - This package gives you a set of conventions to make the most out of Hotwire in Laravel (inspired by the turbo-rails gem).
+- [turbo-showcase](https://github.com/renuo/turbo-showcase) - A showcase of turbo features
 ### u
 ### v
 - [vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr) - ⚡️ HMR for Stimulus controllers in Vite.js
