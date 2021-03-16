@@ -202,6 +202,7 @@ Hey friend! Help me out for a couple of ☕️
 - [stimulus.hotwire.dev](https://stimulus.hotwire.dev/)
 - [stimulus-use](https://stimulus-use.github.io/stimulus-use/#/)
 - [stimulus-components](https://stimulus-components.netlify.app/)
+  - [Github](https://github.com/stimulus-components/stimulus-components)
 - [betterstimulus](https://www.betterstimulus.com/)
 - [stimulustoolbox](https://stimulustoolbox.com/)
 - [awesome-stimulusjs](https://github.com/skatkov/awesome-stimulusjs)
