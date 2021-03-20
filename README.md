@@ -209,6 +209,7 @@ Hey friend! Help me out for a couple of ☕️
 - [stimulus-library](https://github.com/Sub-Xaero/stimulus-library)
    - Tutorial
       - [onrails.blog](https://onrails.blog/stimulus-js-tutorials/)
+- [modestjs.works](https://github.com/pascallaliberte/modestjs.works)
 ### ReactiveRails
 - [guide to reactive rails](https://github.com/obie/guide-to-reactive-rails)
 - [cheatsheet](https://devhints.io/stimulus-reflex)
