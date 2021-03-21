@@ -41,9 +41,6 @@ Hey friend! Help me out for a couple of ☕️
 ---
 
 # Contents
-- [Website](#website)
-- [Open-source](#open-source)
-- [Resources](#resources)
 
 ---
 <details>
