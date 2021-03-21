@@ -42,7 +42,6 @@ Hey friend! Help me out for a couple of ☕️
 
 # Contents
 
----
 <details>
 <summary>Website 🌐</summary>
 <br>
