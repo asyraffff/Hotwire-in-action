@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of ☕️
 
 ---
 <details>
-<summary>Website</summary>
+<summary>Website 🌐</summary>
 <br>
   
 # Website
@@ -119,7 +119,7 @@ Hey friend! Help me out for a couple of ☕️
 ---
 
 <details>
-<summary>Open-Source</summary>
+<summary>Open-Source ✅</summary>
 <br>
 
 # Open-source
@@ -208,7 +208,7 @@ Hey friend! Help me out for a couple of ☕️
 ---
 
 <details>
-<summary>Open-Source</summary>
+<summary>Resources 🔥</summary>
 <br>
 
 # Resources
