@@ -12,12 +12,15 @@ List of awesome [HOTWIRE](https://hotwire.dev/) applications either in *Action* 
 I would say , this is also a [ReactiveRails](https://github.com/obie/guide-to-reactive-rails) list.
 > Reactive Rails empowers small teams of full-stack Rails developers to produce rich, real-time user experiences with server-rendered HTML and minimal JavaScript. It honors the motivating spirit of the Ruby on Rails framework, which is to allow small teams to do big things
 
-## Hotwire Stack
+# Hotwire Stack
 - [Turbo](https://turbo.hotwire.dev/)
+  - [Turbo Drive](https://turbo.hotwire.dev/handbook/drive)
+  - [Turbo Frames](https://turbo.hotwire.dev/handbook/frames)
+  - [Turbo Stream](https://turbo.hotwire.dev/handbook/streams)
 - [Stimulus](https://stimulus.hotwire.dev/)
 - Strada (soon)
 
-## [Reactive Rails Stack](https://obie.medium.com/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2)
+# [Reactive Rails Stack](https://obie.medium.com/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2)
 - [StimulusReflex](https://docs.stimulusreflex.com/)
 - [CableReady](https://cableready.stimulusreflex.com/)
 - [ViewComponent](https://github.com/github/view_component)
@@ -43,75 +46,84 @@ Hey friend! Help me out for a couple of ☕️
 - [Resources](#resources)
 
 ---
+<details>
+<summary>Website</summary>
+<br>
+  
+# Website
 
-## Website
-### a
+## a
 - [allencompassingtrip.com](https://www.allencompassingtrip.com/)
 - [askubuntu](https://askubuntu.com/)
-### b
+## b
 - [basecamp](https://basecamp.com/)
 - [bookshop.org](https://bookshop.org/)
 - [boxdrop.io](https://www.boxdrop.io/)
-### c
+## c
 - [chaosmage.app](https://chaosmage.app/)
 - [coinbase](https://www.coinbase.com/)
 - [CoinGecko](https://www.coingecko.com/en)
 - [CrowdWorks.jp](https://crowdworks.jp/)
-### d
+## d
 - [driftingruby](https://www.driftingruby.com/)
-### e
-### f
+## e
+## f
 - [festalab](https://festalab.com.br/)
-### g
+## g
 - [ga-alliance](https://ga-alliance.com/)
 - [gitlab](https://gitlab.com/)
 - [gorails](https://gorails.com/)
-### h
+## h
 - [hackershare.dev](https://hackershare.dev)
 - [hey.com](https://hey.com/)
-### i
-### j
+## i
+## j
 - [jumpstartrails](https://jumpstartrails.com/)
-### k
-### l
+## k
+## l
 - [leanstack](https://leanstack.com/)
-### m
+## m
 - [Modern Datatables](https://rails-stimulusreflex.guillaumebriday.me/)
-### n
-### o
+## n
+## o
 - [orchid.software](https://orchid.software/)
-### p
+## p
 - [podia](https://www.podia.com/)
 - [processkit](https://processkit.com/)
 - [PyPI.org](https://pypi.org/)
-### q
+## q
 - [quran.com](https://quran.com/)
-### r
+## r
 - [railsbytes](https://railsbytes.com/)
-### s
+## s
 - [shopify](https://accounts.shopify.com/)
 - [skillengine](https://skillsengine.com/)
 - [stackoverflow](https://stackoverflow.com/)
 - [stamped.ai](https://stamped.ai/)
 - [stimulusconnect](https://stimulusconnect.com/)
 - [stimulusreflexpattern](https://www.stimulusreflexpatterns.com/)
-### t
+## t
 - [teachmore](https://www.teachmore.in/)
 - [tetherit.io](https://tetherit.io/)
 - [tinyinvoice](https://www.tinyinvoice.com/)
 - [transcripto.io](https://transcripto.io/)
 - [tsmi.live](https://tsmi.live/)
-### u
-### v
+## u
+## v
 - [vg.no](https://www.vg.no/)
 - [vuelive](https://www.veuelive.com/)
-### w
+## w
 - [wip.co](https://wip.co/)
-### x
-### y
-### z
+## x
+## y
+## z
+</details>
 
 ---
+
+<details>
+<summary>Open-Source</summary>
+<br>
 
 # Open-source
 ### a
@@ -194,7 +206,13 @@ Hey friend! Help me out for a couple of ☕️
 ### y
 ### z
 
+</details>
+
 ---
+
+<details>
+<summary>Open-Source</summary>
+<br>
 
 # Resources
 
@@ -230,3 +248,5 @@ Hey friend! Help me out for a couple of ☕️
 - [Introducing Hotwire](https://www.ombulabs.com/blog/rails/hotwire/introducing-hotwire)
 - [React is Dead. Long live Reactive Rails! Long live StimulusReflex and ViewComponent](https://obie.medium.com/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2)
 - [Building Reactive Rails applications with StimulusReflex](https://bendyworks.com/blog/building-reactive-rails-applications-with-stimulusreflex)
+
+</details>
