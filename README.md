@@ -13,6 +13,11 @@ I would say , this is also a [ReactiveRails](https://github.com/obie/guide-to-re
 > Reactive Rails empowers small teams of full-stack Rails developers to produce rich, real-time user experiences with server-rendered HTML and minimal JavaScript. It honors the motivating spirit of the Ruby on Rails framework, which is to allow small teams to do big things
 
 # Hotwire Stack
+
+<details open>
+<summary>Hotwire 🔥</summary>
+<br>
+  
 - [Turbo](https://turbo.hotwire.dev/)
   - [Turbo Drive](https://turbo.hotwire.dev/handbook/drive)
   - [Turbo Frames](https://turbo.hotwire.dev/handbook/frames)
@@ -20,18 +25,20 @@ I would say , this is also a [ReactiveRails](https://github.com/obie/guide-to-re
 - [Stimulus](https://stimulus.hotwire.dev/)
 - Strada (soon)
 
+</details>
+
 # [Reactive Rails Stack](https://obie.medium.com/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2)
+
+<details open>
+<summary>ReactiveRails 🚀</summary>
+<br>
+  
 - [StimulusReflex](https://docs.stimulusreflex.com/)
 - [CableReady](https://cableready.stimulusreflex.com/)
 - [ViewComponent](https://github.com/github/view_component)
 - [ViewComponentReflex](https://github.com/joshleblanc/view_component_reflex)
 
-## Contain
-- Website that used Hotwire/ReactiveRails
-- Open Source Hotwire/ReactiveRails apps
-- Stimulus apps
-- [StimulusReflex](https://docs.stimulusreflex.com/) apps
-- other languages than Rails that used Hotwire(Django, Go. Laravel...)
+</details>
 
 ## Support
 Hey friend! Help me out for a couple of ☕️
