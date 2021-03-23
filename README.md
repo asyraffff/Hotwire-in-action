@@ -227,25 +227,24 @@ Hey friend! Help me out for a couple of ☕️
 
 ### Stimulus
 - [stimulus.hotwire.dev](https://stimulus.hotwire.dev/)
+- [stimulustoolbox](https://stimulustoolbox.com/)
+- [awesome-stimulusjs](https://github.com/skatkov/awesome-stimulusjs)
 - [stimulus-use](https://stimulus-use.github.io/stimulus-use/#/)
 - [stimulus-components](https://github.com/stimulus-components/stimulus-components)
 - [Stimulus Controller](https://github.com/hopsoft/stimulus_controllers)
-- [Stimulus Form Utilities](https://github.com/eelcoj/stimulus-form-utilities)
 - [betterstimulus](https://www.betterstimulus.com/)
-- [stimulustoolbox](https://stimulustoolbox.com/)
 - [StimulusShortcut](https://github.com/leastbad/stimulus-shortcut)
 - [TailwindCSS StimulusComponents](https://github.com/excid3/tailwindcss-stimulus-components)
-- [awesome-stimulusjs](https://github.com/skatkov/awesome-stimulusjs)
 - [stimulus-library](https://github.com/Sub-Xaero/stimulus-library)
    - Tutorial
       - [onrails.blog](https://onrails.blog/stimulus-js-tutorials/)
-- [modestjs.works](https://github.com/pascallaliberte/modestjs.works)
+
 ### ReactiveRails
 - [guide to reactive rails](https://github.com/obie/guide-to-reactive-rails)
-- [cheatsheet](https://devhints.io/stimulus-reflex)
    - StimulusReflex
      - [docs.stimulusreflex.com](https://docs.stimulusreflex.com/)
      - [expo](https://expo.stimulusreflex.com/)
+     - [cheatsheet](https://devhints.io/stimulus-reflex)
      - [StimulusReflexGlobalId](https://github.com/joshleblanc/stimulus_reflex_globalid)
      - [stimulus_reflex_testing](https://github.com/podia/stimulus_reflex_testing)
    - CableReady
@@ -264,4 +263,51 @@ Hey friend! Help me out for a couple of ☕️
 - [React is Dead. Long live Reactive Rails! Long live StimulusReflex and ViewComponent](https://obie.medium.com/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2)
 - [Building Reactive Rails applications with StimulusReflex](https://bendyworks.com/blog/building-reactive-rails-applications-with-stimulusreflex)
 
+### Blogs
+- [beflagrant](https://www.beflagrant.com/blog/)
+- [modestjs.works](https://github.com/pascallaliberte/modestjs.works)
+
+</details>
+
+<details>
+<summary>Useful Libraries/Framework 🌈</summary>
+<br>
+  
+## Empower HTML you already have
+ - [alpine.js](https://github.com/alpinejs/alpine/) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+ - [reef](https://github.com/cferdinandi/reef) - A lightweight library for creating reactive, state-based components and UI.
+ - [trimmings](https://github.com/postlight/trimmings) - 🌲 Get back to HTML.
+ - [intercooler.js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
+ - [hyper.html](https://viperhtml.js.org/hyper.html) - A Fast & Light Virtual DOM Alternative
+
+## Framework
+ - [motion](https://github.com/unabridged/motion) - Reactive frontend UI components for Rails in pure Ruby
+ - [matestack.io](https://matestack.io/) - Your Rails views reimagined
+ - [hyperstack.org](https://hyperstack.org/) - a Ruby DSL, compiled by Opal, bundled by Webpack, powered by React.
+ - [](https://github.com/tobymao/snabberb) - A simple component view framework for Ruby Opal based on Snabbdom
+ - [prism](https://github.com/prism-rb/prism) - Build frontend web apps with Ruby and WebAssembly
+
+## Other Reactive
+ - django
+   - [django-sockpuppet](https://github.com/jonathan-s/django-sockpuppet) - Build reactive applications with the django tooling you already know and love.
+ - Laravel
+   - [livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+ - Phoenix
+   - [phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
+ - ASP.NET
+   - [Blazor](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) - framework for building modern, interactive web-based UIs with C# and Razor.
+
+## Style
+ - [shoelace.style](https://shoelace.style/) - A forward-thinking library of web components.
+
+## Form
+ - [optimism](https://github.com/leastbad/optimism) - drop-in remote form validation.
+ - [Stimulus Form Utilities](https://github.com/eelcoj/stimulus-form-utilities)
+
+## Lazy load
+ - [futurism](https://github.com/julianrubisch/futurism) - Lazy-load Rails partials via CableReady
+
+## IOS
+ - [turbo-ios](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps
+  
 </details>
