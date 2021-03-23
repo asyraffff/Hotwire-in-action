@@ -266,6 +266,8 @@ Hey friend! Help me out for a couple of ☕️
 ### Blogs
 - [beflagrant](https://www.beflagrant.com/blog/)
 - [modestjs.works](https://github.com/pascallaliberte/modestjs.works)
+- [leanweb.dev](https://leanweb.dev/)
+- [gomakethings.com](https://gomakethings.com/articles/)
 
 </details>
 
@@ -281,6 +283,8 @@ Hey friend! Help me out for a couple of ☕️
  - [trimmings](https://github.com/postlight/trimmings) - 🌲 Get back to HTML.
  - [intercooler.js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
  - [hyper.html](https://viperhtml.js.org/hyper.html) - A Fast & Light Virtual DOM Alternative
+ - [svelte](https://svelte.dev/)
+ - [lit-html](https://lit-html.polymer-project.org/)
 
 ## Framework
  - [motion](https://github.com/unabridged/motion) - Reactive frontend UI components for Rails in pure Ruby
