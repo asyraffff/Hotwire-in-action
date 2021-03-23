@@ -269,6 +269,8 @@ Hey friend! Help me out for a couple of ☕️
 
 </details>
 
+---
+
 <details>
 <summary>Useful Libraries/Framework 🌈</summary>
 <br>
