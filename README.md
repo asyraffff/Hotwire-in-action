@@ -218,6 +218,8 @@ Hey friend! Help me out for a couple of ☕️
     - [turbo-go](https://github.com/akmittal/turbo-go) - Build hotwire apps using go
   - Laravel
     - [turbo-laravel](https://github.com/tonysm/turbo-laravel) - This package gives you a set of conventions to make the most out of Hotwire in Laravel (inspired by the turbo-rails gem).
+  - CakePhp
+    - [cakephp-stimulus-example1](https://github.com/nico-amsterdam/cakephp-stimulus-example1) - CakePHP integrated with stimulus.js via webpack
   - Kotlin
     - [hotwire-kotlin/java](https://github.com/delitescere/hotwire-samples) - A Kotlin/Java SpringBoot sample of hotwire tooling
   - SpringBoot
