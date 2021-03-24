@@ -163,10 +163,6 @@ Hey friend! Help me out for a couple of ☕️
 ## Rails
 - [hotwire-chat](https://github.com/mdominiak/hotwire-chat) - Hotwire Chat is a demo Ruby on Rails web application built with Hotwire.
 - [hotwire-rails-dome-chat](https://github.com/hotwired/hotwire-rails-demo-chat) - Repository from the Hotwire demo
-- [limestone](https://github.com/archonic/limestone) - Boilerplate Rails 6 SaaS application with Webpack, Stimulus and Docker integration.
-- [limestone-accounts](https://github.com/archonic/limestone-accounts) - Boilerplate Rails 5.2 multitenant SaaS application with webpack and Docker integration. Billing is scoped to accounts.
-- [rails-hotwire-base](https://github.com/rootstrap/rails_hotwire_base) - Rails + Hotwire base app
-- [rails-template](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt + @
 - [todomvc_rails_on_stimulus](https://github.com/adrienpoly/todomvc_rails_on_stimulus) - A modest TodoMvc built with Rails, Turbolinks and Stimulus JS
   - ActiveStorage
     - [drag_and_drop_active_storage](https://github.com/justalever/drag_and_drop_active_storage) - A demo drag and drop image upldate Ruby on Rails app using Stimulus.js, DropZone.js, and ActiveStorage
@@ -199,6 +195,10 @@ Hey friend! Help me out for a couple of ☕️
 
 ## Template
 - [sjabloon-lite](https://github.com/GetSjabloon/sjabloon-lite) - The lite version of the SaaS Rails 6 starter kit Sjabloon, includes setup for Webpacker, Tailwind (inc. PurgeCss) and Stimulus
+- [limestone](https://github.com/archonic/limestone) - Boilerplate Rails 6 SaaS application with Webpack, Stimulus and Docker integration.
+- [limestone-accounts](https://github.com/archonic/limestone-accounts) - Boilerplate Rails 5.2 multitenant SaaS application with webpack and Docker integration. Billing is scoped to accounts.
+- [rails-hotwire-base](https://github.com/rootstrap/rails_hotwire_base) - Rails + Hotwire base app
+- [rails-template](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt + @
 
 ## Language
   - ASP.NET
