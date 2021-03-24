@@ -86,6 +86,7 @@ Hey friend! Help me out for a couple of ☕️
 ## k
 ## l
 - [leanstack](https://leanstack.com/)
+- [learnawesome.org](https://learnawesome.org/)
 ## m
 - [Modern Datatables](https://rails-stimulusreflex.guillaumebriday.me/)
 ## n
@@ -143,6 +144,7 @@ Hey friend! Help me out for a couple of ☕️
 - [hackershare](https://github.com/hackershare/hackershare) - a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
 - [hhnpwa](https://github.com/OnRailsBlog/hhnpwa) - HOTWire Hacker News Progressive Web App
 - [hnpwa-app](https://github.com/johnbeatty/hnpwa-app) - An implementation of the Hacker News PWA with Rails + Stimulus
+- [learnawesome.org](https://github.com/learn-awesome/learn) - A social network of lifelong learners built around humanity's universal learning map.
 - [modern-datatables](https://github.com/guillaumebriday/modern-datatables) - They are many ways to build reactive web interfaces but do we really need to add the complexity of JavaScript frameworks like Vue.js or React?
 - [rslack](https://github.com/S-H-GAMELINKS/rslack) - Slack like chat app( using hotwire!)
 - [skyderby](https://github.com/skyderby/skyderby) - The most advanced flight analysis and competition scoring
