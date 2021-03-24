@@ -101,6 +101,7 @@ Hey friend! Help me out for a couple of ☕️
 - [quran.com](https://quran.com/)
 ## r
 - [railsbytes](https://railsbytes.com/)
+- [rubyapi.org](https://rubyapi.org/)
 ## s
 - [shopify](https://accounts.shopify.com/)
 - [skillengine](https://skillsengine.com/)
