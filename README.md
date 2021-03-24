@@ -136,6 +136,7 @@ Hey friend! Help me out for a couple of ☕️
 - [alonetone](https://github.com/sudara/alonetone) - A free, open source, non-commercial home for musicians and their music
 - [annict](https://github.com/annict/annict) - The platform for anime addicts built with Rails and Stimulus.js.
 - [boxdrop](https://github.com/marcoroth/boxdrop) - Dropbox Clone built with StimulusReflex
+- [Cart Example - Stimulus](https://github.com/pascallaliberte/examples.modestjs.works/tree/master/cart/stimulus) - Cart Example - Stimulus
 - [crudlfap](https://github.com/yourlabs/crudlfap) 
 - [denali](https://github.com/gesteves/denali) - A simple, fast photoblogging CMS built in Ruby on Rails which features responsive, high-resolution images, a customizable posting schedule, social media management and syndication, a GraphQL API, and more.
 - [game-of-life](https://github.com/DonSchado/game-of-life) - Conway's Game of Life, with Ruby on Rails, Stimulus.js and Turbolinks
