@@ -285,12 +285,14 @@ Hey friend! Help me out for a couple of ☕️
  - [hyper.html](https://viperhtml.js.org/hyper.html) - A Fast & Light Virtual DOM Alternative
  - [svelte](https://svelte.dev/)
  - [lit-html](https://lit-html.polymer-project.org/)
+ - [mithril.js](https://mithril.js.org/)
+ - [htmx](https://htmx.org/) - high power tools for HTML
 
 ## Framework
  - [motion](https://github.com/unabridged/motion) - Reactive frontend UI components for Rails in pure Ruby
  - [matestack.io](https://matestack.io/) - Your Rails views reimagined
  - [hyperstack.org](https://hyperstack.org/) - a Ruby DSL, compiled by Opal, bundled by Webpack, powered by React.
- - [](https://github.com/tobymao/snabberb) - A simple component view framework for Ruby Opal based on Snabbdom
+ - [snabberb](https://github.com/tobymao/snabberb) - A simple component view framework for Ruby Opal based on Snabbdom
  - [prism](https://github.com/prism-rb/prism) - Build frontend web apps with Ruby and WebAssembly
 
 ## Other Reactive
