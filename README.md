@@ -137,6 +137,7 @@ Hey friend! Help me out for a couple of ☕️
 ## App
 - [alonetone](https://github.com/sudara/alonetone) - A free, open source, non-commercial home for musicians and their music
 - [annict](https://github.com/annict/annict) - The platform for anime addicts built with Rails and Stimulus.js.
+- [black_candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server
 - [boxdrop](https://github.com/marcoroth/boxdrop) - Dropbox Clone built with StimulusReflex
 - [crudlfap](https://github.com/yourlabs/crudlfap) 
 - [denali](https://github.com/gesteves/denali) - A simple, fast photoblogging CMS built in Ruby on Rails which features responsive, high-resolution images, a customizable posting schedule, social media management and syndication, a GraphQL API, and more.
