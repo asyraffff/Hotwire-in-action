@@ -57,6 +57,7 @@ Hey friend! Help me out for a couple of ☕️
 
 ## a
 - [allencompassingtrip.com](https://www.allencompassingtrip.com/)
+- [alonetone](https://alonetone.com/)
 - [askubuntu](https://askubuntu.com/)
 ## b
 - [basecamp](https://basecamp.com/)
@@ -132,6 +133,7 @@ Hey friend! Help me out for a couple of ☕️
 # Open-source
 
 ## App
+- [alonetone](https://github.com/sudara/alonetone) - A free, open source, non-commercial home for musicians and their music
 - [annict](https://github.com/annict/annict) - The platform for anime addicts built with Rails and Stimulus.js.
 - [boxdrop](https://github.com/marcoroth/boxdrop) - Dropbox Clone built with StimulusReflex
 - [denali](https://github.com/gesteves/denali) - A simple, fast photoblogging CMS built in Ruby on Rails which features responsive, high-resolution images, a customizable posting schedule, social media management and syndication, a GraphQL API, and more.
