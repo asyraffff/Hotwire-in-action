@@ -171,6 +171,7 @@ Hey friend! Help me out for a couple of ☕️
 - [better-stimulus](https://github.com/julianrubisch/better-stimulus) - An opinionated collection of StimulusJS best practices
 - [javascript30-stimulus](https://github.com/adrienpoly/javascript30-stimulus) - Wes Bos 🔥 Javascript30 converted to Stimulus JS 🚀🚀🚀
 - [stimulus-mapbox-gl](https://github.com/ayudo/stimulus-mapbox-gl) - stimulus controllers for mapbox-gl
+- [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - a simple StimulusJS controller that keeps the header of a table at the top of window as you scroll through the page.
 
 ## StimulusReflex
 - [sr_mini](https://github.com/hopsoft/sr_mini) - A minimal Rails app that showcases how to use StimulusReflex
