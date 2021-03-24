@@ -166,6 +166,8 @@ Hey friend! Help me out for a couple of ☕️
     - [docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
   - form
     - [abyme](https://github.com/bear-in-mind/abyme) - abyme is a modern take on handling dynamic nested forms in Rails 6+ using StimulusJS.
+  - Sidekiq
+    - [sidekiq-actioncable-stimulus-demo](https://github.com/dstull/sidekiq-actioncable-stimulus-demo) - demo rails app using sidekiq/actioncable/stimulus and testing it all
 
 ## Stimulus
 - [better-stimulus](https://github.com/julianrubisch/better-stimulus) - An opinionated collection of StimulusJS best practices
