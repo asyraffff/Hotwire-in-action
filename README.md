@@ -138,7 +138,6 @@ Hey friend! Help me out for a couple of ☕️
 - [alonetone](https://github.com/sudara/alonetone) - A free, open source, non-commercial home for musicians and their music
 - [annict](https://github.com/annict/annict) - The platform for anime addicts built with Rails and Stimulus.js.
 - [boxdrop](https://github.com/marcoroth/boxdrop) - Dropbox Clone built with StimulusReflex
-- [Cart Example - Stimulus](https://github.com/pascallaliberte/examples.modestjs.works/tree/master/cart/stimulus) - Cart Example - Stimulus
 - [crudlfap](https://github.com/yourlabs/crudlfap) 
 - [denali](https://github.com/gesteves/denali) - A simple, fast photoblogging CMS built in Ruby on Rails which features responsive, high-resolution images, a customizable posting schedule, social media management and syndication, a GraphQL API, and more.
 - [game-of-life](https://github.com/DonSchado/game-of-life) - Conway's Game of Life, with Ruby on Rails, Stimulus.js and Turbolinks
@@ -155,6 +154,11 @@ Hey friend! Help me out for a couple of ☕️
 - [taskwire](https://github.com/vojto/taskwire) - Task manager with Rails/Hotwire
 - [trello-stimulus-reflex](https://github.com/excid3/trello-stimulus-reflex) - A trello clone using Stimulus Reflex
 
+## Demo
+- [Cart Example - Stimulus](https://github.com/pascallaliberte/examples.modestjs.works/tree/master/cart/stimulus) - Cart Example - Stimulus
+- [stimulus-mapbox-gl](https://github.com/ayudo/stimulus-mapbox-gl) - stimulus controllers for mapbox-gl
+- [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - a simple StimulusJS controller that keeps the header of a table at the top of window as you scroll through the page.
+- [stimulus-demo](https://github.com/tbreuss/stimulus-demo) - Multi Page Application (MPA) with pre-rendered HTML using Stimulus.js UMD
 
 ## Rails
 - [hotwire-chat](https://github.com/mdominiak/hotwire-chat) - Hotwire Chat is a demo Ruby on Rails web application built with Hotwire.
@@ -181,9 +185,6 @@ Hey friend! Help me out for a couple of ☕️
 ## Stimulus
 - [better-stimulus](https://github.com/julianrubisch/better-stimulus) - An opinionated collection of StimulusJS best practices
 - [javascript30-stimulus](https://github.com/adrienpoly/javascript30-stimulus) - Wes Bos 🔥 Javascript30 converted to Stimulus JS 🚀🚀🚀
-- [stimulus-mapbox-gl](https://github.com/ayudo/stimulus-mapbox-gl) - stimulus controllers for mapbox-gl
-- [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - a simple StimulusJS controller that keeps the header of a table at the top of window as you scroll through the page.
-- [stimulus-demo](https://github.com/tbreuss/stimulus-demo) - Multi Page Application (MPA) with pre-rendered HTML using Stimulus.js UMD
 
 ## StimulusReflex
 - [sr_mini](https://github.com/hopsoft/sr_mini) - A minimal Rails app that showcases how to use StimulusReflex
