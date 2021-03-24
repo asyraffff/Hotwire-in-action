@@ -59,6 +59,7 @@ Hey friend! Help me out for a couple of ☕️
 - [allencompassingtrip.com](https://www.allencompassingtrip.com/)
 - [alonetone](https://alonetone.com/)
 - [askubuntu](https://askubuntu.com/)
+- [audiotrails.io](https://audiotrails.io/)
 ## b
 - [basecamp](https://basecamp.com/)
 - [bookshop.org](https://bookshop.org/)
@@ -146,6 +147,7 @@ Hey friend! Help me out for a couple of ☕️
 - [hnpwa-app](https://github.com/johnbeatty/hnpwa-app) - An implementation of the Hacker News PWA with Rails + Stimulus
 - [learnawesome.org](https://github.com/learn-awesome/learn) - A social network of lifelong learners built around humanity's universal learning map.
 - [modern-datatables](https://github.com/guillaumebriday/modern-datatables) - They are many ways to build reactive web interfaces but do we really need to add the complexity of JavaScript frameworks like Vue.js or React?
+- [radiofeed](https://github.com/danjac/radiofeed) - Simple podcast MVP
 - [rslack](https://github.com/S-H-GAMELINKS/rslack) - Slack like chat app( using hotwire!)
 - [skyderby](https://github.com/skyderby/skyderby) - The most advanced flight analysis and competition scoring
 - [snippet_app](https://github.com/SnippetSafe/snippet_app) - A social code snippet sharing app that allows you to create, file and share code snippets with anyone. Built with Ruby on Rails and Stimulus JS.
