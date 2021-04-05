@@ -183,6 +183,7 @@ Hey friend! Help me out for a couple of ☕️
 ## Stimulus
 - [better-stimulus](https://github.com/julianrubisch/better-stimulus) - An opinionated collection of StimulusJS best practices
 - [javascript30-stimulus](https://github.com/adrienpoly/javascript30-stimulus) - Wes Bos 🔥 Javascript30 converted to Stimulus JS 🚀🚀🚀
+- [stimulus-rxjs-example](https://github.com/mike1o1/stimulus-rxjs-example) - Example repository showing Stimulus along with RxJS 
 
 ## StimulusReflex
 - [sr_mini](https://github.com/hopsoft/sr_mini) - A minimal Rails app that showcases how to use StimulusReflex
