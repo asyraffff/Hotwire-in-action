@@ -270,6 +270,8 @@ Hey friend! Help me out for a couple of ☕️
      - [stimulus_reflex_testing](https://github.com/podia/stimulus_reflex_testing)
    - CableReady
      - [cableready.stimulusreflex.com](https://cableready.stimulusreflex.com/)
+     - AnyCable
+       - [anycable_rails_demo](https://github.com/anycable/anycable_rails_demo) - AnyCable Rails demo application and its different variations
    - ViewComponentReflex
      - [ViewComponentReflex showcase](https://view-component-reflex-expo.grep.sh/)     
 ### Community
