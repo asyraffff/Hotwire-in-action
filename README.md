@@ -264,18 +264,19 @@ Hey friend! Help me out for a couple of ☕️
 
 ### ReactiveRails
 - [guide to reactive rails](https://github.com/obie/guide-to-reactive-rails)
-   - StimulusReflex
+   - **StimulusReflex*8
      - [docs.stimulusreflex.com](https://docs.stimulusreflex.com/)
      - [expo](https://expo.stimulusreflex.com/)
      - [cheatsheet](https://devhints.io/stimulus-reflex)
      - [StimulusReflexGlobalId](https://github.com/joshleblanc/stimulus_reflex_globalid)
      - [stimulus_reflex_testing](https://github.com/podia/stimulus_reflex_testing)
-   - CableReady
+   - **CableReady**
      - [cableready.stimulusreflex.com](https://cableready.stimulusreflex.com/)
      - AnyCable
        - [anycable_rails_demo](https://github.com/anycable/anycable_rails_demo) - AnyCable Rails demo application and its different variations
-   - ViewComponentReflex
-     - [ViewComponentReflex showcase](https://view-component-reflex-expo.grep.sh/)     
+   - **ViewComponentReflex**
+     - [ViewComponentReflex showcase](https://view-component-reflex-expo.grep.sh/) 
+     - [view_component-contrib](https://github.com/palkan/view_component-contrib) - A collection of extension and developer tools for ViewComponent    
 ### Community
 - [discuss.hotwire.dev](https://discuss.hotwire.dev/)
 - [stimulusconnect](https://stimulusconnect.com/)
