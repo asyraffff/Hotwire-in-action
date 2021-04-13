@@ -281,14 +281,20 @@ Hey friend! Help me out for a couple of ☕️
 ### Community
 - [discuss.hotwire.dev](https://discuss.hotwire.dev/)
 - [stimulusconnect](https://stimulusconnect.com/)
+
 ### Articles
-- [Advocating for "Reactive Rails"](https://cableready.stimulusreflex.com/advocating-for-reactive-rails)
-- [Hotwire, ViewComponents and TailwindCSS: The Ultimate Rails Stack](https://blog.cloud66.com/hotwire-viewcomponents-and-tailwindcss-the-ultimate-rails-stack/)
-- [Taking Rails to the next level with Hotwire](https://blog.cloud66.com/taking-rails-to-the-next-level-with-hotwire/)
-- [Making Hotwire and Devise play nicely](https://blog.cloud66.com/making-hotwire-and-devise-play-nicely-with-viewcomponents/)
-- [Introducing Hotwire](https://www.ombulabs.com/blog/rails/hotwire/introducing-hotwire)
-- [React is Dead. Long live Reactive Rails! Long live StimulusReflex and ViewComponent](https://obie.medium.com/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2)
-- [Building Reactive Rails applications with StimulusReflex](https://bendyworks.com/blog/building-reactive-rails-applications-with-stimulusreflex)
+- **Hotwire**
+  - [Introducing Hotwire](https://www.ombulabs.com/blog/rails/hotwire/introducing-hotwire)
+  - [Hotwire: Reactive Rails with no JavaScript?](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
+  - [Hotwire, ViewComponents and TailwindCSS: The Ultimate Rails Stack](https://blog.cloud66.com/hotwire-viewcomponents-and-tailwindcss-the-ultimate-rails-stack/)
+  - [Taking Rails to the next level with Hotwire](https://blog.cloud66.com/taking-rails-to-the-next-level-with-hotwire/)
+  - [Making Hotwire and Devise play nicely](https://blog.cloud66.com/making-hotwire-and-devise-play-nicely-with-viewcomponents/)
+- **ReactiveRails**
+  - [Advocating for "Reactive Rails"](https://cableready.stimulusreflex.com/advocating-for-reactive-rails)
+  - [React is Dead. Long live Reactive Rails! Long live StimulusReflex and ViewComponent](https://obie.medium.com/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2)
+  - [Building Reactive Rails applications with StimulusReflex](https://bendyworks.com/blog/building-reactive-rails-applications-with-stimulusreflex)
+- **ViewComponent**
+  - [Hotwire, ViewComponents and TailwindCSS: The Ultimate Rails Stack](https://blog.cloud66.com/hotwire-viewcomponents-and-tailwindcss-the-ultimate-rails-stack/)
 
 ### Blogs
 - [beflagrant](https://www.beflagrant.com/blog/)
