@@ -153,6 +153,7 @@ Hey friend! Help me out for a couple of ☕️
 - [rslack](https://github.com/S-H-GAMELINKS/rslack) - Slack like chat app( using hotwire!)
 - [skyderby](https://github.com/skyderby/skyderby) - The most advanced flight analysis and competition scoring
 - [snippet_app](https://github.com/SnippetSafe/snippet_app) - A social code snippet sharing app that allows you to create, file and share code snippets with anyone. Built with Ruby on Rails and Stimulus JS.
+- [sponsor_me](https://github.com/dmunoz-10/sponsor_me) _ An app to sponsor people's ideas using Stripe, Sidekiq, Rails and Stimulus. 
 - [stimulus-reflex-expo](https://github.com/hopsoft/stimulus_reflex_expo) - StimulusReflex demos
 - [taskwire](https://github.com/vojto/taskwire) - Task manager with Rails/Hotwire
 - [trello-stimulus-reflex](https://github.com/excid3/trello-stimulus-reflex) - A trello clone using Stimulus Reflex
