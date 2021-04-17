@@ -289,6 +289,7 @@ Hey friend! Help me out for a couple of ☕️
 ### Articles
 - **Hotwire**
   - [Introducing Hotwire](https://www.ombulabs.com/blog/rails/hotwire/introducing-hotwire)
+  - [What is "html-over-the-wire"?](https://github.com/guettli/html-over-the-wire) - 
   - [Hotwire: Reactive Rails with no JavaScript?](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
   - [Hotwire, ViewComponents and TailwindCSS: The Ultimate Rails Stack](https://blog.cloud66.com/hotwire-viewcomponents-and-tailwindcss-the-ultimate-rails-stack/)
   - [HTML over-the-wire is a promising future of Web Development](https://dev.to/rajasegar/html-over-the-wire-is-the-future-of-web-development-542c) 
