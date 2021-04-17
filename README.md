@@ -250,6 +250,9 @@ Hey friend! Help me out for a couple of ☕️
 
 # Resources
 
+### Comparison
+- [Comparison of different frameworks](https://html-over-the-wire.herokuapp.com/) 
+
 ### Stimulus
 - [stimulus.hotwire.dev](https://stimulus.hotwire.dev/)
 - [stimulustoolbox](https://stimulustoolbox.com/)
