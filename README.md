@@ -270,7 +270,7 @@ Hey friend! Help me out for a couple of ☕️
 
 ### ReactiveRails
 - [guide to reactive rails](https://github.com/obie/guide-to-reactive-rails)
-   - **StimulusReflex*8
+   - **StimulusReflex**
      - [docs.stimulusreflex.com](https://docs.stimulusreflex.com/)
      - [expo](https://expo.stimulusreflex.com/)
      - [cheatsheet](https://devhints.io/stimulus-reflex)
@@ -278,7 +278,8 @@ Hey friend! Help me out for a couple of ☕️
      - [stimulus_reflex_testing](https://github.com/podia/stimulus_reflex_testing)
    - **CableReady**
      - [cableready.stimulusreflex.com](https://cableready.stimulusreflex.com/)
-     - AnyCable
+     - **AnyCable**
+       - [anycable-rails](https://github.com/anycable/anycable-rails) - AnyCable Rails integration
        - [anycable_rails_demo](https://github.com/anycable/anycable_rails_demo) - AnyCable Rails demo application and its different variations
    - **ViewComponentReflex**
      - [ViewComponentReflex showcase](https://view-component-reflex-expo.grep.sh/) 
