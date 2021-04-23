@@ -199,7 +199,6 @@ Hey friend! Help me out for a couple of ☕️
 ## Turbo
 - [turbo-showcase](https://github.com/renuo/turbo-showcase) - A showcase of turbo features
 
-
 ## Template
 - [sjabloon-lite](https://github.com/GetSjabloon/sjabloon-lite) - The lite version of the SaaS Rails 6 starter kit Sjabloon, includes setup for Webpacker, Tailwind (inc. PurgeCss) and Stimulus
 - [limestone](https://github.com/archonic/limestone) - Boilerplate Rails 6 SaaS application with Webpack, Stimulus and Docker integration.
@@ -325,6 +324,7 @@ Hey friend! Help me out for a couple of ☕️
  - [intercooler.js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
  - [hyper.html](https://viperhtml.js.org/hyper.html) - A Fast & Light Virtual DOM Alternative
  - [svelte](https://svelte.dev/)
+ - [lit.dev](https://lit.dev/) 
  - [lit-html](https://lit-html.polymer-project.org/)
  - [mithril.js](https://mithril.js.org/)
  - [htmx](https://htmx.org/) - high power tools for HTML
