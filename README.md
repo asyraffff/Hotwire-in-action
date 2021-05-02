@@ -188,13 +188,14 @@ Hey friend! Help me out for a couple of ☕️
 - [javascript30-stimulus](https://github.com/adrienpoly/javascript30-stimulus) - Wes Bos 🔥 Javascript30 converted to Stimulus JS 🚀🚀🚀
 - [stimulus-rxjs-example](https://github.com/mike1o1/stimulus-rxjs-example) - Example repository showing Stimulus along with RxJS 
 - [stimulus-validation](https://github.com/jwald1/stimulus-validation) - stimulus-validation helps validate user input and helps you display errors.
+- [stimulus-turbolinks](https://github.com/gretchenfitze/stimulus-turbolinks) - Stimulus + Vue.js + Turbolinks test Rails app
+- [stimulus-turbolinks-demo](https://github.com/pascallaliberte/stimulus-turbolinks-demo) - A Stimulus + Turbolinks Demo of an app called Proposahoy!
 
 ## StimulusReflex
 - [sr_mini](https://github.com/hopsoft/sr_mini) - A minimal Rails app that showcases how to use StimulusReflex
 - [stimulus-reflex-expo](https://github.com/hopsoft/stimulus_reflex_expo) - StimulusReflex demos
 - [stimulus_reflex_todomvc](https://github.com/hopsoft/stimulus_reflex_todomvc) - An implementation of TodoMVC using Ruby on Rails, StimulusJS, and StimulusReflex
-- [stimulus-turbolinks](https://github.com/gretchenfitze/stimulus-turbolinks) - Stimulus + Vue.js + Turbolinks test Rails app
-- [stimulus-turbolinks-demo](https://github.com/pascallaliberte/stimulus-turbolinks-demo) - A Stimulus + Turbolinks Demo of an app called Proposahoy!
+- [beast_mode](https://github.com/leastbad/beast_mode) - 100% server-side rendered faceted search UI demo.
 
 ## Turbo
 - [turbo-showcase](https://github.com/renuo/turbo-showcase) - A showcase of turbo features
