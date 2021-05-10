@@ -212,37 +212,37 @@ Hey friend! Help me out for a couple of ☕️
 - [rails-template](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt + @
 
 ## Language
-  - ASP.NET
+  - **ASP.NET**
     - [hotwire-aspnet-demo-chat](https://github.com/scottiemc7/hotwire-aspnet-demo-chat) - Hotwire Asp.Net Core Chat Demo
-  - Django
+  - **Django**
     - [hotwire-django](https://github.com/hotwire-django/hotwire-django) - Meta package to combine turbo-django and stimulus-django
     - [hotwire-django-demo-chat](https://github.com/davish/hotwire-django-demo-chat) - Chat app demo of the Turbo web framework, rendered with Django.
     - [hotwire-django-realworld](https://github.com/hotwire-django/hotwire-django-realworld) - RealWorld Django app built with Turbo!
     - [django-turbo-response](https://github.com/hotwire-django/django-turbo-response) - Hotwired/Turbo Django response helpers
     - [turbo-django](https://github.com/hotwire-django/turbo-django) - An early stage integration of Hotwire Turbo with Django
-  - Elixir
+  - **Elixir**
     - [phoenix-hotwire-demo-chat](https://github.com/en30/hotwire-phoenix-demo-chat) - This is a Phoenix port of hotwired/hotwire-rails-demo-chat.
-  - Express.js
+  - **Express.js**
     - [express-hotwire](https://github.com/deriegle/express-hotwire) - Express tooling for working with Hotwire (HTML over the wire)
     - [hotwire-turbo-express](https://github.com/twelve17/hotwire-turbo-express) -  ExpressJS middleware for sending turbo-stream HTML fragments to a hotwire Turbo client
-  - flask
+  - **flask**
     - [hotwire-flask-demo](https://github.com/bwghughes/hotwired-flask-demo) - Demo basic Flask using Hotwired and Bootstrap 5.
     - [turbo-flask](https://github.com/miguelgrinberg/turbo-flask) - Integration of Hotwire's Turbo library with Flask.
-  - Go
+  - **Go**
     - [chat-hotwire-go](https://github.com/lu4p/chat-hotwire-go) - This is a simple chat app which shows how to use Go with Hotwire.
     - [gotwire](https://github.com/gypsydave5/gotwire) - Go server using HotWire
     - [hotwire-go-example](https://github.com/while1malloc0/hotwire-go-example) - The hotwire demo chat written in Golang
     - [hotwire-golang-website](https://github.com/wolfeidau/hotwire-golang-website) - This project provides some working examples using Go and Hotwire Turbo.
     - [turbo-go](https://github.com/akmittal/turbo-go) - Build hotwire apps using go
-  - Laravel
+  - **Laravel**
     - [turbo-laravel](https://github.com/tonysm/turbo-laravel) - This package gives you a set of conventions to make the most out of Hotwire in Laravel (inspired by the turbo-rails gem).
-  - CakePhp
+  - **CakePhp**
     - [cakephp-stimulus-example1](https://github.com/nico-amsterdam/cakephp-stimulus-example1) - CakePHP integrated with stimulus.js via webpack
-  - Kotlin
+  - **Kotlin**
     - [hotwire-kotlin/java](https://github.com/delitescere/hotwire-samples) - A Kotlin/Java SpringBoot sample of hotwire tooling
-  - SpringBoot
+  - **SpringBoot**
     - [hotwire-demo-chat-in-springboot](https://github.com/mbucc/hotwire-demo-chat-in-springboot) - Convert the demo video in Hotwire launch from Ruby to SpringBoot
-  - Vite
+  - **Vite**
     - [vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr) - ⚡️ HMR for Stimulus controllers in Vite.js
 
 </details>
