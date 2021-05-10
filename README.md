@@ -196,6 +196,7 @@ Hey friend! Help me out for a couple of ☕️
 - [stimulus-reflex-expo](https://github.com/hopsoft/stimulus_reflex_expo) - StimulusReflex demos
 - [stimulus_reflex_todomvc](https://github.com/hopsoft/stimulus_reflex_todomvc) - An implementation of TodoMVC using Ruby on Rails, StimulusJS, and StimulusReflex
 - [beast_mode](https://github.com/leastbad/beast_mode) - 100% server-side rendered faceted search UI demo.
+- [stimulus_reflex_sandbox](https://github.com/julianrubisch/stimulus_reflex_sandbox) - the single-file StimulusReflex-powered Rails app template.
 
 ## Turbo
 - [turbo-showcase](https://github.com/renuo/turbo-showcase) - A showcase of turbo features
@@ -279,6 +280,7 @@ Hey friend! Help me out for a couple of ☕️
      - [cheatsheet](https://devhints.io/stimulus-reflex)
      - [StimulusReflexGlobalId](https://github.com/joshleblanc/stimulus_reflex_globalid)
      - [stimulus_reflex_testing](https://github.com/podia/stimulus_reflex_testing)
+     - [stimulus_reflex_sandbox](https://github.com/julianrubisch/stimulus_reflex_sandbox) - the single-file StimulusReflex-powered Rails app template.
    - **CableReady**
      - [cableready.stimulusreflex.com](https://cableready.stimulusreflex.com/)
      - **AnyCable**
