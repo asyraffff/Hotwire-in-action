@@ -190,6 +190,7 @@ Hey friend! Help me out for a couple of ☕️
 - [stimulus-validation](https://github.com/jwald1/stimulus-validation) - stimulus-validation helps validate user input and helps you display errors.
 - [stimulus-turbolinks](https://github.com/gretchenfitze/stimulus-turbolinks) - Stimulus + Vue.js + Turbolinks test Rails app
 - [stimulus-turbolinks-demo](https://github.com/pascallaliberte/stimulus-turbolinks-demo) - A Stimulus + Turbolinks Demo of an app called Proposahoy!
+- [stimulus-turbolinks-vuejs](https://github.com/gretchenfitze/stimulus-turbolinks) - Stimulus + Vue.js + Turbolinks test Rails app
 
 ## StimulusReflex
 - [sr_mini](https://github.com/hopsoft/sr_mini) - A minimal Rails app that showcases how to use StimulusReflex
