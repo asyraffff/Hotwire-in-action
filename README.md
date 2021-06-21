@@ -200,6 +200,39 @@ Hey friend! Help me out for a couple of ☕️
 - [stimulus_reflex_todomvc](https://github.com/hopsoft/stimulus_reflex_todomvc) - An implementation of TodoMVC using Ruby on Rails, StimulusJS, and StimulusReflex
 - [beast_mode](https://github.com/leastbad/beast_mode) - 100% server-side rendered faceted search UI demo.
 - [stimulus_reflex_sandbox](https://github.com/julianrubisch/stimulus_reflex_sandbox) - the single-file StimulusReflex-powered Rails app template.
+  
+## ViewComponent
+- **Demo**
+  - [view-component-demo](https://github.com/joelhawksley/view-component-demo) - Rails application with ViewComponent
+  - [view_component_reflex_expo](https://github.com/joshleblanc/view_component_reflex_expo) - view_component_reflex_expo
+  - [rails_bootstrap](https://github.com/harled/rails_bootstrap) - Rails implementation of React Bootstrap, using GitHub's view components and stimulus js.
+  - [hotwire_components](https://github.com/thecookieorg/hotwire_components) - Rails Hotwire w/ View Components
+  - [view-components-in-the-wild](https://github.com/failure-driven/view-components-in-the-wild) - View components in the wild
+  - [rails_view_components_stimulus](https://github.com/codeshowcase-pv/rails_view_components_stimulus)
+  - [tailwind_view_component_example](https://github.com/coderberry/tailwind_view_component_example) 
+  - [rails-flash-messages](https://github.com/zaychoer/rails-flash-messages) - Implement View Component, Tailwind, StimulusJs
+  - [rails-ViewComponent-Stimulus-Materialize](https://github.com/PauloMiranda98/Front-End-Example-Using-Rails-ViewComponent-Stimulus-Materialize) - rails-ViewComponent-Stimulus-Materialize
+  - [polaris-view-components](https://github.com/baoagency/polaris-view-components)
+  - [primer view_components](https://github.com/primer/view_components) - ViewComponents for the Primer Design System
+  - [elemental_components](https://github.com/jensljungblad/elemental_components) - Simple view components for Rails 5.1+
+  - [bridgetown-view-component](https://github.com/bridgetownrb/bridgetown-view-component) - Add support for GitHub's ViewComponent library to your Bridgetown sites.
+  - [rails-css-component-techniques](https://github.com/bessey/rails-css-component-techniques) - Examples of ways to encapsulate Rails View Component CSS
+- **Storybook**
+  - [view_component_storybook](https://github.com/jonspalmer/view_component_storybook) - ViewComponent previews and testing in Storybook
+  - [view_component_storybook_example](https://github.com/jonspalmer/view_component_storybook_example) - Example app demonstrating ViewComponent::Storybook to preview ViewComponents in Storybook
+  - [rails-view-components-storybook](https://github.com/phacks/rails-view-components-storybook) - Companion repository for the “Building a Component Library in Rails with Storybook”
+  - [storybook-demo](https://github.com/kundigo/storybook-demo) - A demo application showing how to use storybook with ruby on rails applications using view components
+- [bootstrap-viewcomponent](https://github.com/dpaola2/bootstrap-viewcomponent) - View Components for Bootstrap
+- [tailwind_view_component](https://github.com/andrewmcodes-archive/tailwind_view_component) - ViewComponents for TailwindCSS
+- [fullstack](https://github.com/blogonhq/fullstack) - Fullstack rails based on view components
+- **Additional**
+  - [ilex](https://github.com/joshleblanc/ilex) - Render view components without a sidecar template
+  - [view_component-form](https://github.com/pantographe/view_component-form) - Rails FormBuilder for ViewComponent
+  - [inline_view_component](https://github.com/existentialmutt/inline_view_component) - Include template strings in Rails ViewComponent class definitions
+  - [view_component_properties](https://github.com/simonrand/view_component_properties) - Manage properties on ViewComponents
+  - [view_component_kit](https://github.com/Perafan18/view_component_kit)
+  - [iew_component-no_component](https://github.com/boardfish/view_component-no_component) - Remove the Component suffix from ViewComponent generators.
+  - [lightning-ui](https://github.com/aaricpittman/lightning-ui) - Rails view components for Salesforce Lightning Design System
 
 ## Turbo
 - [turbo-showcase](https://github.com/renuo/turbo-showcase) - A showcase of turbo features
