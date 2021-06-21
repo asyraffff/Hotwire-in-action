@@ -325,7 +325,7 @@ Hey friend! Help me out for a couple of ☕️
 - [ombulabs](https://www.ombulabs.com/blog)
 - [onrails](https://onrails.blog/)
 - [tad.thorle](https://tad.thorley.dev/)
-- []()
+- [shime.sh](https://shime.sh/)
 
 </details>
 
