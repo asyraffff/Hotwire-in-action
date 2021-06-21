@@ -161,6 +161,7 @@ Hey friend! Help me out for a couple of ☕️
 - [trello-stimulus-reflex](https://github.com/excid3/trello-stimulus-reflex) - A trello clone using Stimulus Reflex
 
 ## Demo
+- [hotwire-chat](https://github.com/mdominiak/hotwire-chat) - Hotwire Chat is a demo Ruby on Rails web application built with Hotwire.
 - [Cart Example - Stimulus](https://github.com/pascallaliberte/examples.modestjs.works/tree/master/cart/stimulus) - Cart Example - Stimulus
 - [stimulus-mapbox-gl](https://github.com/ayudo/stimulus-mapbox-gl) - stimulus controllers for mapbox-gl
 - [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - a simple StimulusJS controller that keeps the header of a table at the top of window as you scroll through the page.
@@ -316,6 +317,15 @@ Hey friend! Help me out for a couple of ☕️
 - [modestjs.works](https://github.com/pascallaliberte/modestjs.works)
 - [leanweb.dev](https://leanweb.dev/)
 - [gomakethings.com](https://gomakethings.com/articles/)
+- [cloud66 Blog](https://blog.cloud66.com/)
+- [noelrappin](https://noelrappin.com/)
+- [mikerogers0](https://dev.to/mikerogers0)
+- [evilmartians](https://evilmartians.com/chronicles)
+- [Matouš Borák](https://dev.to/borama)
+- [ombulabs](https://www.ombulabs.com/blog)
+- [onrails](https://onrails.blog/)
+- [tad.thorle](https://tad.thorley.dev/)
+- []()
 
 </details>
 
