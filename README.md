@@ -362,6 +362,7 @@ Hey friend! Help me out for a couple of ☕️
 - [shime.sh](https://shime.sh/)
  
 ### Talk
+- [Frontendless Rails frontend - Vladimir Dementyev](https://www.youtube.com/watch?v=sIxvxp7E0xg&list=PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6&index=72)
 - **ViewComponent**
   - [Rethinking the View Layer with Components by Joel Hawksley](https://www.youtube.com/watch?v=y5Z5a6QdA-M)
   - [Encapsulating Views by Joel Hawksley](https://www.youtube.com/watch?v=YVYRus_2KZM)
