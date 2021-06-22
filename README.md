@@ -367,6 +367,8 @@ Hey friend! Help me out for a couple of ☕️
   - [Rethinking the View Layer with Components by Joel Hawksley](https://www.youtube.com/watch?v=y5Z5a6QdA-M)
   - [Encapsulating Views by Joel Hawksley](https://www.youtube.com/watch?v=YVYRus_2KZM)
   - [ViewComponents in the Real World - Joel Hawksley](https://www.youtube.com/watch?v=QoetqsBCsbE)
+- **StimulusReflex**
+  - [Just the Right Amount of JS: Building Reactive Apps With Stimulus Reflex](https://www.youtube.com/watch?v=XwJHOnbAbio)
   
 </details>
 
