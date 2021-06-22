@@ -359,6 +359,11 @@ Hey friend! Help me out for a couple of ☕️
 - [onrails](https://onrails.blog/)
 - [tad.thorle](https://tad.thorley.dev/)
 - [shime.sh](https://shime.sh/)
+ 
+### Talk
+- [RailsConf 2019 - Rethinking the View Layer with Components by Joel Hawksley](https://www.youtube.com/watch?v=y5Z5a6QdA-M)
+
+  
 
 </details>
 
