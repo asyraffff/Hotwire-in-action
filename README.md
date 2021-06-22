@@ -201,6 +201,7 @@ Hey friend! Help me out for a couple of ☕️
 - [stimulus_reflex_todomvc](https://github.com/hopsoft/stimulus_reflex_todomvc) - An implementation of TodoMVC using Ruby on Rails, StimulusJS, and StimulusReflex
 - [beast_mode](https://github.com/leastbad/beast_mode) - 100% server-side rendered faceted search UI demo.
 - [stimulus_reflex_sandbox](https://github.com/julianrubisch/stimulus_reflex_sandbox) - the single-file StimulusReflex-powered Rails app template.
+- [stimulus_reflex_harness](https://github.com/leastbad/stimulus_reflex_harness) - Verify a bare-bones SR application. Branch it to build MVCEs.
   
 ## ViewComponent
 - **Demo**
