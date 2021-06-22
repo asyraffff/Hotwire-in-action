@@ -362,10 +362,11 @@ Hey friend! Help me out for a couple of ☕️
 - [shime.sh](https://shime.sh/)
  
 ### Talk
-- [RailsConf 2019 - Rethinking the View Layer with Components by Joel Hawksley](https://www.youtube.com/watch?v=y5Z5a6QdA-M)
-- [RailsConf 2020 CE - Encapsulating Views by Joel Hawksley](https://www.youtube.com/watch?v=YVYRus_2KZM)
+- **ViewComponent**
+  - [Rethinking the View Layer with Components by Joel Hawksley](https://www.youtube.com/watch?v=y5Z5a6QdA-M)
+  - [Encapsulating Views by Joel Hawksley](https://www.youtube.com/watch?v=YVYRus_2KZM)
+  - [ViewComponents in the Real World - Joel Hawksley](https://www.youtube.com/watch?v=QoetqsBCsbE)
   
-
 </details>
 
 ---
