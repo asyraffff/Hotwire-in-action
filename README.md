@@ -198,6 +198,7 @@ Hey friend! Help me out for a couple of ☕️
 ## StimulusReflex
 - [sr_mini](https://github.com/hopsoft/sr_mini) - A minimal Rails app that showcases how to use StimulusReflex
 - [stimulus-reflex-expo](https://github.com/hopsoft/stimulus_reflex_expo) - StimulusReflex demos
+- [stimulus-reflex-sandbox](https://github.com/leastbad/stimulus-reflex-sandbox) - Sandbox apps are based on sr mini, the single-file StimulusReflex-powered Rails app template
 - [stimulus_reflex_todomvc](https://github.com/hopsoft/stimulus_reflex_todomvc) - An implementation of TodoMVC using Ruby on Rails, StimulusJS, and StimulusReflex
 - [beast_mode](https://github.com/leastbad/beast_mode) - 100% server-side rendered faceted search UI demo.
 - [stimulus_reflex_sandbox](https://github.com/julianrubisch/stimulus_reflex_sandbox) - the single-file StimulusReflex-powered Rails app template.
