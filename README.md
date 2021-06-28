@@ -202,6 +202,7 @@ Hey friend! Help me out for a couple of ☕️
 - [beast_mode](https://github.com/leastbad/beast_mode) - 100% server-side rendered faceted search UI demo.
 - [stimulus_reflex_sandbox](https://github.com/julianrubisch/stimulus_reflex_sandbox) - the single-file StimulusReflex-powered Rails app template.
 - [stimulus_reflex_harness](https://github.com/leastbad/stimulus_reflex_harness) - Verify a bare-bones SR application. Branch it to build MVCEs.
+- [rubocop-stimulus_reflex](https://github.com/marcoroth/rubocop-stimulus_reflex) - Code style checking for StimulusReflex
   
 ## ViewComponent
 - **Demo**
