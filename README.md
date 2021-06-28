@@ -201,6 +201,7 @@ Hey friend! Help me out for a couple of ☕️
 - [stimulus-reflex-sandbox](https://github.com/leastbad/stimulus-reflex-sandbox) - Sandbox apps are based on sr mini, the single-file StimulusReflex-powered Rails app template
 - [stimulus_reflex_todomvc](https://github.com/hopsoft/stimulus_reflex_todomvc) - An implementation of TodoMVC using Ruby on Rails, StimulusJS, and StimulusReflex
 - [beast_mode](https://github.com/leastbad/beast_mode) - 100% server-side rendered faceted search UI demo.
+- [stimulusreflexpatterns.com/patterns](https://www.stimulusreflexpatterns.com/patterns/) - An assorted collection of patterns, directly extracted from the stimulusreflexpattern course.
 - [stimulus_reflex_sandbox](https://github.com/julianrubisch/stimulus_reflex_sandbox) - the single-file StimulusReflex-powered Rails app template.
 - [stimulus_reflex_harness](https://github.com/leastbad/stimulus_reflex_harness) - Verify a bare-bones SR application. Branch it to build MVCEs.
 - [rubocop-stimulus_reflex](https://github.com/marcoroth/rubocop-stimulus_reflex) - Code style checking for StimulusReflex
@@ -333,6 +334,9 @@ Hey friend! Help me out for a couple of ☕️
 ### Community
 - [discuss.hotwire.dev](https://discuss.hotwire.dev/)
 - [stimulusconnect](https://stimulusconnect.com/)
+  
+### Courses
+- [stimulusreflexpatterns](https://www.stimulusreflexpatterns.com/)
 
 ### Articles
 - **Hotwire**
