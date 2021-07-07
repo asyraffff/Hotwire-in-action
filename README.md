@@ -252,6 +252,7 @@ Hey friend! Help me out for a couple of ☕️
 - [limestone-accounts](https://github.com/archonic/limestone-accounts) - Boilerplate Rails 5.2 multitenant SaaS application with webpack and Docker integration. Billing is scoped to accounts.
 - [rails-hotwire-base](https://github.com/rootstrap/rails_hotwire_base) - Rails + Hotwire base app
 - [rails-template](https://github.com/astrocket/rails-template) - Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt + @
+- [uickstart-rails-tailwind](https://github.com/MA-Ahmad/quickstart-rails-tailwind) - This is a base project to quickly spin up a Rails+Stimulus+Tailwindcss application.
 
 ## Language
   - **ASP.NET**
