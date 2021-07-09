@@ -69,6 +69,7 @@ Hey friend! Help me out for a couple of ☕️
 - [cookpad](https://cookpad.com/us)
 - [coinbase](https://www.coinbase.com/)
 - [CoinGecko](https://www.coingecko.com/en)
+- [covidnearme](https://covidnearme.org/)
 - [CrowdWorks.jp](https://crowdworks.jp/)
 ## d
 - [driftingruby](https://www.driftingruby.com/)
