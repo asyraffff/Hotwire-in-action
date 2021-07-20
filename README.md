@@ -160,6 +160,7 @@ Hey friend! Help me out for a couple of ☕️
 - [sponsor_me](https://github.com/dmunoz-10/sponsor_me) _ An app to sponsor people's ideas using Stripe, Sidekiq, Rails and Stimulus. 
 - [stimulus-reflex-expo](https://github.com/hopsoft/stimulus_reflex_expo) - StimulusReflex demos
 - [taskwire](https://github.com/vojto/taskwire) - Task manager with Rails/Hotwire
+- [tippkick.club](https://github.com/lxxxvi/tippkick.club) - Betting app revisited for EURO 2020
 - [trello-stimulus-reflex](https://github.com/excid3/trello-stimulus-reflex) - A trello clone using Stimulus Reflex
 
 ## Demo
