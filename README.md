@@ -153,6 +153,7 @@ Hey friend! Help me out for a couple of ☕️
 - [hnpwa-app](https://github.com/johnbeatty/hnpwa-app) - An implementation of the Hacker News PWA with Rails + Stimulus
 - [learnawesome.org](https://github.com/learn-awesome/learn) - A social network of lifelong learners built around humanity's universal learning map.
 - [modern-datatables](https://github.com/guillaumebriday/modern-datatables) - They are many ways to build reactive web interfaces but do we really need to add the complexity of JavaScript frameworks like Vue.js or React?
+- [nindika](https://github.com/stephannv/nindika) - Checkout Nintendo Switch eShop games
 - [radiofeed](https://github.com/danjac/radiofeed) - Simple podcast MVP
 - [rslack](https://github.com/S-H-GAMELINKS/rslack) - Slack like chat app( using hotwire!)
 - [skyderby](https://github.com/skyderby/skyderby) - The most advanced flight analysis and competition scoring
