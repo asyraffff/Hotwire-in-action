@@ -106,6 +106,7 @@ Hey friend! Help me out for a couple of ☕️
 - [railsbytes](https://railsbytes.com/)
 - [rubyapi.org](https://rubyapi.org/)
 ## s
+- [sailboat.guide](https://sailboat.guide/)
 - [shopify](https://accounts.shopify.com/)
 - [skillengine](https://skillsengine.com/)
 - [skyderby](https://skyderby.ru/)
