@@ -157,6 +157,7 @@ Hey friend! Help me out for a couple of ☕️
 - [modern-datatables](https://github.com/guillaumebriday/modern-datatables) - They are many ways to build reactive web interfaces but do we really need to add the complexity of JavaScript frameworks like Vue.js or React?
 - [nindika](https://github.com/stephannv/nindika) - Checkout Nintendo Switch eShop games
 - [radiofeed](https://github.com/danjac/radiofeed) - Simple podcast MVP
+- [rails_new_io](https://github.com/miatrinity/rails_new_io) - railsnew.io is an app to create and verify new rails applications using an intuitive UI.
 - [rslack](https://github.com/S-H-GAMELINKS/rslack) - Slack like chat app( using hotwire!)
 - [skyderby](https://github.com/skyderby/skyderby) - The most advanced flight analysis and competition scoring
 - [snippet_app](https://github.com/SnippetSafe/snippet_app) - A social code snippet sharing app that allows you to create, file and share code snippets with anyone. Built with Ruby on Rails and Stimulus JS.
