@@ -380,6 +380,7 @@ Hey friend! Help me out for a couple of ☕️
   
 ### Videos
   - [CableReady & StimulusReflex Overview by Hopsoft](https://www.youtube.com/watch?v=dPzv2qsj5L8)
+  - [Build a Twitter clone in 10 minutes with Rails, CableReady, and StimulusReflex by Hopsoft](https://www.youtube.com/watch?v=F5hA79vKE_E)
  
 ### Talk
 - [Frontendless Rails frontend - Vladimir Dementyev](https://www.youtube.com/watch?v=sIxvxp7E0xg&list=PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6&index=72)
