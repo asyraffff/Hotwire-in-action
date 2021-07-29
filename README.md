@@ -377,6 +377,9 @@ Hey friend! Help me out for a couple of ☕️
 - [onrails](https://onrails.blog/)
 - [tad.thorle](https://tad.thorley.dev/)
 - [shime.sh](https://shime.sh/)
+  
+### Videos
+  - [CableReady & StimulusReflex Overview by Hopsoft](https://www.youtube.com/watch?v=dPzv2qsj5L8)
  
 ### Talk
 - [Frontendless Rails frontend - Vladimir Dementyev](https://www.youtube.com/watch?v=sIxvxp7E0xg&list=PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6&index=72)
