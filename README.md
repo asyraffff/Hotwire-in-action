@@ -383,6 +383,7 @@ Hey friend! Help me out for a couple of ☕️
   - [Build a Twitter clone in 10 minutes with Rails, CableReady, and StimulusReflex by Hopsoft](https://www.youtube.com/watch?v=F5hA79vKE_E)
   - [Introduction to Stimulus Reflex by excid3](https://gorails.com/episodes/stimulus-reflex-basics)
   - [Realtime browser updates with Cable Ready by excid3](https://gorails.com/episodes/how-to-use-cable-ready)
+  - [Reactive Applications with Stimulus Reflex by Drifting Ruby](https://www.youtube.com/watch?v=K9QeC9CsYiU)
  
 ### Talk
 - [Frontendless Rails frontend - Vladimir Dementyev](https://www.youtube.com/watch?v=sIxvxp7E0xg&list=PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6&index=72)
