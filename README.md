@@ -384,6 +384,7 @@ Hey friend! Help me out for a couple of ☕️
   - [Introduction to Stimulus Reflex by excid3](https://gorails.com/episodes/stimulus-reflex-basics)
   - [Realtime browser updates with Cable Ready by excid3](https://gorails.com/episodes/how-to-use-cable-ready)
   - [Reactive Applications with Stimulus Reflex by Drifting Ruby](https://www.youtube.com/watch?v=K9QeC9CsYiU)
+  - [Create Fast Apps With Stimulus Reflex And RailsBytes Templates In Ruby On Rails 6 by Deanin](https://www.youtube.com/watch?v=hxqkTy2SB78)
  
 ### Talk
 - [Frontendless Rails frontend - Vladimir Dementyev](https://www.youtube.com/watch?v=sIxvxp7E0xg&list=PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6&index=72)
