@@ -245,6 +245,7 @@ Hey friend! Help me out for a couple of ☕️
   - [view_component_kit](https://github.com/Perafan18/view_component_kit)
   - [iew_component-no_component](https://github.com/boardfish/view_component-no_component) - Remove the Component suffix from ViewComponent generators.
   - [lightning-ui](https://github.com/aaricpittman/lightning-ui) - Rails view components for Salesforce Lightning Design System
+  - [hotwired_component](https://github.com/fugufish/hotwired_component) - HotwiredComponent establishes a pattern for working with Hotwire and ViewComponent.
 
 ## Turbo
 - [turbo-showcase](https://github.com/renuo/turbo-showcase) - A showcase of turbo features
