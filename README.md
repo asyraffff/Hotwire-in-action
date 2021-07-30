@@ -369,6 +369,7 @@ Hey friend! Help me out for a couple of ☕️
   - [ViewComponent and Stimulus](https://fugu.dev/2020-04-15-working-with-view-component-and-stimulus-part-1/)
   - [Encapsulating Ruby on Rails views](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/)
   - [A component-based approach to writing views in Ruby on Rails applications using View Components](https://medium.flatstack.com/a-component-based-approach-to-writing-views-in-ruby-on-rails-applications-using-view-components-17e262d9ae2b)
+  - [How we use Web Components at GitHub](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
 
 ### Blogs
 - [beflagrant](https://www.beflagrant.com/blog/)
