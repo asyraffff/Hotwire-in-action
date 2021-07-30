@@ -371,6 +371,7 @@ Hey friend! Help me out for a couple of ☕️
   - [A component-based approach to writing views in Ruby on Rails applications using View Components](https://medium.flatstack.com/a-component-based-approach-to-writing-views-in-ruby-on-rails-applications-using-view-components-17e262d9ae2b)
   - [How we use Web Components at GitHub](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
   - [A modern app tech stack, built for speed](https://briansigafoos.com/app-tech-stack-2021/)
+  - [Hotwire, ViewComponent, and TailwindCSS: A New Era in Ruby On Rails Development](https://mattsears.com/articles/2021/03/30/hotwire-view-component-tailwind-css-a-new-era-in-ruby-on-rails-development/)
 
 ### Blogs
 - [beflagrant](https://www.beflagrant.com/blog/)
