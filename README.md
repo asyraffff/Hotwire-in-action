@@ -359,6 +359,7 @@ Hey friend! Help me out for a couple of ☕️
 - **ReactiveRails**
   - [Advocating for "Reactive Rails"](https://cableready.stimulusreflex.com/advocating-for-reactive-rails)
   - [React is Dead. Long live Reactive Rails! Long live StimulusReflex and ViewComponent](https://obie.medium.com/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2)
+  - [Reactive Rails with Stimulus Reflex!](https://codeando.dev/posts/reactivity-rails-reflex/)
   - [Building Reactive Rails applications with StimulusReflex](https://bendyworks.com/blog/building-reactive-rails-applications-with-stimulusreflex)
 - **ViewComponent**
   - [Hotwire, ViewComponents and TailwindCSS: The Ultimate Rails Stack](https://blog.cloud66.com/hotwire-viewcomponents-and-tailwindcss-the-ultimate-rails-stack/)
