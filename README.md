@@ -364,6 +364,7 @@ Hey friend! Help me out for a couple of ☕️
 - **ViewComponent**
   - [Hotwire, ViewComponents and TailwindCSS: The Ultimate Rails Stack](https://blog.cloud66.com/hotwire-viewcomponents-and-tailwindcss-the-ultimate-rails-stack/)
   - [Components on Rails?](https://codeando.dev/posts/rails-view-components/)
+  - [The ultimate Button Component](https://blog.cloud66.com/the-ultimate-button-component/)
 
 ### Blogs
 - [beflagrant](https://www.beflagrant.com/blog/)
