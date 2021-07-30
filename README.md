@@ -367,6 +367,7 @@ Hey friend! Help me out for a couple of ☕️
   - [Components on Rails?](https://codeando.dev/posts/rails-view-components/)
   - [The ultimate Button Component](https://blog.cloud66.com/the-ultimate-button-component/)
   - [ViewComponent and Stimulus](https://fugu.dev/2020-04-15-working-with-view-component-and-stimulus-part-1/)
+  - [Encapsulating Ruby on Rails views](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/)
 
 ### Blogs
 - [beflagrant](https://www.beflagrant.com/blog/)
