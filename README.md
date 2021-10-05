@@ -250,6 +250,7 @@ Hey friend! Help me out for a couple of ☕️
 ## Turbo
 - [turbo-showcase](https://github.com/renuo/turbo-showcase) - A showcase of turbo features
 - [turbo_flash](https://github.com/joshmn/turbo_flash) - Automagically include your flash messages in your Ruby on Rails Hotwire TurboStream responses.
+- [turn](https://github.com/domchristie/turn) - A starting point for animating page transitions in Turbo apps
 
 ## Turbo IOS
 - [Turbo-iOS-Demo](https://github.com/joemasilotti/Turbo-iOS-Demo) 
