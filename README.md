@@ -173,6 +173,7 @@ Hey friend! Help me out for a couple of ☕️
 - [stimulus-mapbox-gl](https://github.com/ayudo/stimulus-mapbox-gl) - stimulus controllers for mapbox-gl
 - [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - a simple StimulusJS controller that keeps the header of a table at the top of window as you scroll through the page.
 - [stimulus-demo](https://github.com/tbreuss/stimulus-demo) - Multi Page Application (MPA) with pre-rendered HTML using Stimulus.js UMD
+- [webrtc-hotwire-rails](https://github.com/domchristie/webrtc-hotwire-rails) - A video chat app demonstration using Hotwire and Ruby on Rails
 
 ## Rails
 - [hotwire-chat](https://github.com/mdominiak/hotwire-chat) - Hotwire Chat is a demo Ruby on Rails web application built with Hotwire.
