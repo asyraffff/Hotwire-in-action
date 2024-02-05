@@ -96,6 +96,7 @@ Hey friend! Help me out for a couple of ☕️
 ## o
 - [orchid.software](https://orchid.software/)
 ## p
+- [PlateJoy](https://www.platejoy.com) — meal planning
 - [podia](https://www.podia.com/)
 - [polywork](https://www.polywork.com/)
 - [processkit](https://processkit.com/)
